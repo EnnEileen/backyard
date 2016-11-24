@@ -63,7 +63,7 @@ header{
 .container .boton1
 {
 	color:white;
-	background:#82B1EA;
+	background:#1F82F8;
 }
 section
 {
@@ -104,11 +104,17 @@ section
 	width: 100%;
 	box-sizing: border-box;
 }
-.footer
+
+footer p 
 {
-	background: yellow;
+	padding-left: 190px;
+	color: #969697;
 }
 
+ .text-blue
+{
+	color: blue;
+}
 @media (max-width:900px)
 {
 	.container

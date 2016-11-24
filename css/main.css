@@ -45,6 +45,18 @@ header{
 	font-size: 20px;
 }
 
+.container h1
+{
+	color:white;
+	font-size: 50px;
+}
+.container p
+{
+	color:white;
+	font-size: 15px;
+}
+
+
 section
 {
 	background: #CCC;

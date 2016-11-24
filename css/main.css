@@ -60,6 +60,11 @@ header{
 	color:white;
 	font-size: 18px;
 }
+.container .boton1
+{
+	color:white;
+	background:#82B1EA;
+}
 section
 {
 	background: #686868  ;
@@ -98,6 +103,10 @@ section
 {
 	width: 100%;
 	box-sizing: border-box;
+}
+.footer
+{
+	background: yellow;
 }
 
 @media (max-width:900px)
